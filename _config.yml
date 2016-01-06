@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C0C0B0'
+    - '#A81828'
+    - '#B06050'
+    - '#F80000'
+    - '#C87060'
+  brandStrength: 1
+  lightness: 0.903782
+  rhythmicContrast: 0.661184
+  saturation: 0.304276
+cta: {}
+layout_spectrum: 0.047697
+name: sianzrong
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.530427
